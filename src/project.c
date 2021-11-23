@@ -1,3 +1,6 @@
+//CDA 3101 Project for Angell | Nov 23, 2021
+//__ did first 5 and Thomas Harmeyer did last 5 as partners
+
 #include "spimcore.h"
 
 
